@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/icarus.iml" filepath="$PROJECT_DIR$/.idea/icarus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icarus-app.iml" filepath="$PROJECT_DIR$/icarus-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icarus-react.iml" filepath="$PROJECT_DIR$/icarus-react.iml" />
+    </modules>
+  </component>
+</project>

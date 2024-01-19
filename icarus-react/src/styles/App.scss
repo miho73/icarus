@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    @apply text-neutral-100;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+header {
+    -webkit-app-region: drag;
+
+    * {
+        -webkit-app-region: no-drag;
+    }
+}
